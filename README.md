@@ -27,8 +27,8 @@ Hi there, I'm Tarun Dwarakacharla! ![](https://user-images.githubusercontent.com
 
 ### <h2>📜 Description.. </h2>
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [l23cs205@rvrjc.ac.in](mailto:238w5a1201@vrsec.ac.in)
-*   🚀  I'm currently working on **MERN Stack** and **Cyber Sec.**
+*   ✉️  You can contact me at [l23cs205@rvrjc.ac.in](mailto:l23cs205@rvrjc.ac.in)
+*   🚀  I'm currently working as **Inter** at **Infosys SpringBoard** on **SpringBoot** Project i.e Online Delievery Management System.
 *   🤝  I'm open to collaborating on Cybersecurity and MERN stack Projects.
   
 <!--
@@ -79,7 +79,7 @@ Hi there, I'm Tarun Dwarakacharla! ![](https://user-images.githubusercontent.com
 <!--       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arst"><img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white"></a> -->
 <!--       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a> -->
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+     
 <!--       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
   </p>
 
